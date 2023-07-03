@@ -1,3 +1,25 @@
+{
+ "cells": [
+  {
+   "attachments": {},
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# 期中练习\n",
+    "\n",
+    "## 要求\n",
+    "\n",
+    "检验对上半学期知识的掌握，课后自行完成，可查阅各种资料。\n",
+    "\n",
+    "### 如何提交\n",
+    "\n",
+    "- 复制本文件，文件名改为`教学班号-编号.ipynb`。例如刘国强同学是2班第15号，文件名应改为`2-15.ipynb`。\n",
+    "- 在复制文件中答题，每道题的答案紧接题目。\n",
+    "- 答题结束后commit该文件，并提交pull request。\n",
+    "\n"
+   ]
+  },
+
 import numpy as np
 import matplotlib.pyplot as plt
 X = np.array([ 0.70846042, -0.68388789,  1.03780474,  1.08334621,  0.77026309,
